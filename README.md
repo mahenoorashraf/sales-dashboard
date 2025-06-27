@@ -2,11 +2,11 @@
 
 **Project Title**: Sales Dashboard  
 **Company Name**: Codtech IT Solutions  
-**Name**: B. Thrisha  
-**Intern ID**: CT04DF777  
+**Name**: Mahenoor Ashraf
+**Intern ID**: CT04DF1394
 **Domain**: Power BI  
 **Duration**: 4 Weeks  
-**Mentor**: Neela Santosh  
+**Mentor**: Neela Santhosh  
 
 ---
 
@@ -51,7 +51,7 @@ The main objective of this project is to create an interactive dashboard that pr
 
 ---
 
-## 📁 Project Structure
+## 📁 File Structure
 
 sales-dashboard/
 │
@@ -72,6 +72,8 @@ sales-dashboard/
 
 
 ## 📁 Output
+
+![Image](https://github.com/user-attachments/assets/1eedc381-d8a8-4217-86e7-8c12c0b3498f)
 
 
 
